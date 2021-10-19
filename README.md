@@ -1,6 +1,11 @@
 
 # Geeky Week - A Week into Portfolio Website.
 
+
+### This Repo contains the basic file Structure needed to start.
+
+Clone it and stay along with the speakers to code out your perosnal website.
+
 ### What is Geeky Week?
 
 Build your portfolio website with us in the week long bootcamp with live coding everyday for a week.
@@ -27,7 +32,4 @@ React is a JavaScript library created for building fast and interactive user int
     Hands on to ReactJS
     Certificate of Participation
 
-### This Repo contains the basic file Structure needed to start.
-
-Clone it and stay along with the speakers to code out your perosnal website.
 
